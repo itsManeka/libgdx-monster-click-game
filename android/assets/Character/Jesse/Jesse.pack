@@ -1,0 +1,40 @@
+
+Jesse.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+talking
+  rotate: false
+  xy: 1, 1
+  size: 20, 84
+  orig: 20, 84
+  offset: 0, 0
+  index: 1
+stand
+  rotate: false
+  xy: 1, 1
+  size: 20, 84
+  orig: 20, 84
+  offset: 0, 0
+  index: 1
+talking
+  rotate: false
+  xy: 23, 1
+  size: 20, 84
+  orig: 20, 84
+  offset: 0, 0
+  index: 4
+talking
+  rotate: false
+  xy: 23, 1
+  size: 20, 84
+  orig: 20, 84
+  offset: 0, 0
+  index: 2
+talking
+  rotate: false
+  xy: 45, 1
+  size: 20, 84
+  orig: 20, 84
+  offset: 0, 0
+  index: 3

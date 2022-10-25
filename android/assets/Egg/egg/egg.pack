@@ -1,0 +1,89 @@
+
+egg.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hatch
+  rotate: false
+  xy: 1, 1
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: 1
+stand
+  rotate: false
+  xy: 53, 1
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: 2
+stand
+  rotate: false
+  xy: 53, 1
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: 1
+hatch
+  rotate: false
+  xy: 105, 1
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: 3
+hatch
+  rotate: false
+  xy: 157, 1
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: 4
+hatch
+  rotate: false
+  xy: 209, 1
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: 5
+hatch
+  rotate: false
+  xy: 261, 1
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: 6
+hatch
+  rotate: false
+  xy: 313, 1
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: 2
+stand
+  rotate: false
+  xy: 365, 2
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 5
+stand
+  rotate: false
+  xy: 365, 2
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: 3
+stand
+  rotate: false
+  xy: 417, 3
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: 6
+stand
+  rotate: false
+  xy: 417, 3
+  size: 50, 54
+  orig: 50, 54
+  offset: 0, 0
+  index: 4

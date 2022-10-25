@@ -1,0 +1,76 @@
+
+rain.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 2
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 3
+
+rain2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 1
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 4
+
+rain3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 7
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 6
+
+rain4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 8
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 5

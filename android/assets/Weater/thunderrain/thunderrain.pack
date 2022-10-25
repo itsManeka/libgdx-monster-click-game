@@ -1,0 +1,152 @@
+
+thunderrain.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 13
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 2
+
+thunderrain2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 3
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 10
+
+thunderrain3.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 1
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 16
+
+thunderrain4.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 9
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 14
+
+thunderrain5.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 15
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 12
+
+thunderrain6.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 4
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 7
+
+thunderrain7.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 6
+action
+  rotate: false
+  xy: 363, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 8
+
+thunderrain8.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+action
+  rotate: false
+  xy: 1, 1
+  size: 360, 604
+  orig: 360, 604
+  offset: 0, 0
+  index: 5
+action
+  rotate: false
+  xy: 363, 1
+  size: 359, 604
+  orig: 359, 604
+  offset: 0, 0
+  index: 11

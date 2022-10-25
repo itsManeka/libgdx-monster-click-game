@@ -1,0 +1,33 @@
+
+pinkegg.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stand
+  rotate: false
+  xy: 1, 1
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: 2
+stand
+  rotate: false
+  xy: 1, 1
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: 4
+stand
+  rotate: false
+  xy: 82, 1
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: 1
+stand
+  rotate: false
+  xy: 163, 1
+  size: 79, 85
+  orig: 79, 85
+  offset: 0, 0
+  index: 3
